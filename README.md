@@ -28,25 +28,7 @@
 
 > 每月末更新这个月的支出情况，和预算做对比。
 
-[2021 年 10 月](expense/2021-nov.md)
-
-[2021 年 9 月](expense/2021-sep.md)
-
-[2021 年 8 月](expense/2021-aug.md)
-
-[2021 年 7 月](expense/2021-jul.md)
-
-[2021 年 6 月](expense/2021-jun.md)
-
-[2021 年 5 月](expense/2021-may.md)
-
-[2021 年 4 月](expense/2021-apr.md)
-
-[2021 年 3 月](expense/2021-mar.md)
-
-[2021 年 2 月](expense/2021-fab.md)
-
-[2021 年 1 月](expense/2021-jan.md)
+[2021 年开支情况](expense/2021/expense-2021.md)
 
 ## 理财书籍笔记
 
